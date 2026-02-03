@@ -1,26 +1,27 @@
 <div align="center">
 
-<!-- Animated Spider Webs Around Name -->
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="40" />
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="40" />
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="40" />
+<!-- Doodle Stars and Sparkles Around Name -->
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="50" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sparkles.png" width="50" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="50" />
 
 <!-- Doodle Style Name Header -->
 <h1>
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=70&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=100&lines=Samarth+Bharadwaj" alt="Name" />
 </h1>
 
-<!-- Animated Spider Webs Around Name -->
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="40" />
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="40" />
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="40" />
+<!-- Doodle Stars and Sparkles Around Name -->
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="50" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sparkles.png" width="50" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="50" />
 
-<!-- Roman Pillars Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<!-- Doodle Wave Divider -->
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%">
+
 
 <!-- Profile Subtitle with Roman Aesthetic -->
 <h3>
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=80&lines=Graduate+Engineer;Ready+to+Build+%26+Innovate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=80&lines=Fresh+Graduate+Engineer;Ready+to+Build+%26+Innovate" alt="Typing SVG" />
 </h3>
 
 <!-- Roman Quote -->
@@ -40,24 +41,25 @@
 <br><br>
 
 <!-- Top Skills Badges -->
-<img src="https://img.shields.io/badge/Java-Expert-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Go-Advanced-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-Proficient-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-Proficient-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Distributed_Systems-Proficient-FFD700?style=for-the-badge&logo=apache&logoColor=black" />
-<img src="https://img.shields.io/badge/REST_APIs-Expert-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-Advanced-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-Proficient-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-Proficient-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-Proficient-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-Expert-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+
 
 </div>
 
 <br>
 
 <!-- Roman Scroll Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%">
 
-## 🏛️ SALVĒ! Welcome to My Digital Forum
+## 🏛️ Hey There! Welcome to My Space ✨
 
-<img align="right" alt="Coding Roman" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding Animation" width="400" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5082ceadaff5d21b96d92dc/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313030302f312a765a6d516e4e375143396b55675f47354c623053412e676966">
 
 ```python
 class SoftwareEngineer:
@@ -87,7 +89,7 @@ class SoftwareEngineer:
         }
 ```
 
-### 📜 About Me:
+### 📜 About Me
 
 > *Fresh graduate ready to make an impact in the world of technology.*
 
@@ -103,9 +105,9 @@ class SoftwareEngineer:
 <br>
 
 <!-- Roman Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%">
 
-## ⚔️ Arsenal of Technologies
+## ⚔️ My Tech Arsenal 🎨
 
 <div align="center">
 
@@ -141,34 +143,60 @@ class SoftwareEngineer:
 <br>
 
 <!-- Roman Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%">
 
-## 🏆 Conquests & Achievements
+## 🏆 My Achievements & Stats 📊
 
 <div align="center">
 
-### 🎖️ Certifications of Excellence
+### 🎖️ My Certifications ✨
+**Click on any badge to view the certificate!**
 
 <table>
 <tr>
 <td align="center" width="50%">
-<img src="https://img.shields.io/badge/Google_Data_Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<a href="https://www.coursera.org/account/accomplishments/professional-cert/YOUR_GOOGLE_CERT_ID" target="_blank">
+  <img src="https://img.shields.io/badge/Google_Data_Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</a>
+<br>
+<sub><b>Google Data Analytics Professional Certificate</b></sub>
 </td>
 <td align="center" width="50%">
-<img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=719ED7524303EDD3BCF102B13BFB827143D96A8BC04B994233FFC27C36E3390E" target="_blank">
+  <img src="https://img.shields.io/badge/Oracle_Cloud_Data_Science-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+</a>
+<br>
+<sub><b>OCI 2025 Data Science Professional</b></sub>
 </td>
 </tr>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=coursera&logoColor=white" />
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=90CAB2F3D43BAFCCF0BBE0AB2F04A2FC3522923ADF40C26DA5B6F2035C8B3441" target="_blank">
+  <img src="https://img.shields.io/badge/Oracle_Generative_AI-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+</a>
+<br>
+<sub><b>OCI 2025 Generative AI Professional</b></sub>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/Java_Programming-007396?style=for-the-badge&logo=java&logoColor=white" />
+<a href="https://www.udemy.com/certificate/UC-27557b44-7c1f-4d70-b1a6-1633ceebc3d0/" target="_blank">
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=coursera&logoColor=white" />
+</a>
+<br>
+<sub><b>Machine Learning Specialization</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+<a href="https://www.udemy.com/certificate/UC-26099806-93ca-4451-8a98-20eb39a083a3/" target="_blank">
+  <img src="https://img.shields.io/badge/Java_Programming-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+</a>
+<br>
+<sub><b>Java Programming - Udemy</b></sub>
 </td>
 </tr>
 </table>
 
-### 📊 GitHub Colosseum Stats
+### 📊 GitHub Stats 🚀
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=samarth-git27&show_icons=true&theme=radical&border_color=FFD700&title_color=FFD700&icon_color=FFD700&text_color=C0C0C0&bg_color=0D1117" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=samarth-git27&theme=radical&border=FFD700&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&background=0D1117" />
@@ -183,9 +211,9 @@ class SoftwareEngineer:
 <br>
 
 <!-- Roman Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%">
 
-## 🏗️ Monuments of Code - Featured Projects
+## 🏗️ My Featured Projects 💡
 
 <div align="center">
 
@@ -199,7 +227,7 @@ class SoftwareEngineer:
 
 </div>
 
-### 💎 Engineering Masterpieces
+### 💎 What I've Built 🔧
 
 #### 🏛️ **High-Scale Payment Simulation Platform** | *Apr 2024*
 ```yaml
@@ -239,9 +267,9 @@ Architecture: Deep Learning Predictive Model
 <br>
 
 <!-- Roman Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%">
 
-## 💼 Professional Campaign Trail
+## 💼 My Professional Journey 🌟
 
 ### ⚔️ **Software Developer Intern** | *CodTech IT Solutions*
 `Apr 2025 – May 2025 | Remote`
@@ -263,9 +291,9 @@ Architecture: Deep Learning Predictive Model
 <br>
 
 <!-- Roman Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%">
 
-## 📬 Send a Messenger to My Forum
+## 📬 Let's Connect! 🤝
 
 <div align="center">
 
@@ -297,7 +325,7 @@ Architecture: Deep Learning Predictive Model
 <br>
 
 <!-- Roman Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%">
 
 ## 🎲 Random Dev Quote of the Day
 
@@ -309,17 +337,17 @@ Architecture: Deep Learning Predictive Model
 
 <br>
 
-<!-- Roman Footer -->
+<!-- Footer -->
 <div align="center">
 
-### 🏛️ Built with Roman Precision | Powered by Modern Engineering
+### ✨ Thanks for visiting! Made with 💛 and lots of ☕
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=120&section=footer&text=VALE!%20👋&fontSize=40&fontColor=FFD700&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=120&section=footer&text=See+you+soon!+👋&fontSize=35&fontColor=FFD700&animation=twinkling"/>
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=16&duration=3000&pause=1000&color=C0C0C0&center=true&vCenter=true&width=600&lines=May+your+code+compile+on+the+first+try+⚔️;And+your+deployments+never+fail+🏛️" alt="Farewell" />
+<img src="https://readme-typing-svg.demolab.com?font=Caveat&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Happy+Coding!+✨;Let's+build+something+awesome+together!+🚀" alt="Farewell" />
 
-**© 2025 Samarth J Bharadwaj | All Rights Reserved**
+**© 2025 Samarth Bharadwaj | All Rights Reserved**
 
 </div>
