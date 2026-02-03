@@ -179,10 +179,10 @@ class SoftwareEngineer:
 </td>
 <td align="center">
 <a href="https://www.udemy.com/certificate/UC-27557b44-7c1f-4d70-b1a6-1633ceebc3d0/" target="_blank">
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=coursera&logoColor=white" />
+  <img src="https://img.shields.io/badge/Front-End-FF6F00?style=for-the-badge&logo=coursera&logoColor=white" />
 </a>
 <br>
-<sub><b>Machine Learning Specialization</b></sub>
+<sub><b>HTML, CSS and JavaScript- Udemy</b></sub>
 </td>
 </tr>
 <tr>
